@@ -12,3 +12,11 @@
 4.conditionalBolcks4.py
 
 5.conditionalBolcks5.py
+
+6.arrays.py
+
+7.arrays2.py
+
+8.loops.py
+
+9.functions.py
