@@ -1,5 +1,6 @@
 # pythonProgrammingLanguageForBeginners
 #Bu repository başlangıç seviyesinden ileri seviyeye kadar python dilinde yazılmış kaynak kodlar için oluşturulmuştur.
+
 #Kodların eklenme sırası şu şekildedir:
 
 1.variables.py
