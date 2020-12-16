@@ -1,3 +1,4 @@
+# 12/12/2020 lower() upper() fonksiyonları
 #Python da stringler ile işlemler yapmak için özel string fonksiyonları vardır.
 #Bunlardan bazıları upper() (string ifadeyi büyük harfe çevirir) ve lower() (string ifadeyi küçük harfe çevirir.
 
