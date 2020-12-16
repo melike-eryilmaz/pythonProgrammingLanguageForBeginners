@@ -20,3 +20,21 @@
 8.loops.py
 
 9.functions.py
+
+10.variablesPart1.py
+
+11.variablesPart2.py
+
+12.stringFunctionsPart1.py
+
+13.stringFunctionsPart2.py
+
+14.stringFunctionsPart3.py
+
+15.stringFunctionsPart4.py
+
+16.stringFunctionsPart5.py
+
+17.inputs.py  
+
+18.notes(12-12-2020).txt
