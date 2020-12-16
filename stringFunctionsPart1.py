@@ -5,6 +5,8 @@
 firstString = 'Python is awesome!'
 secondStrşng='PYTHON is Awesome!'
 
+print(firstString.lower())
+print(firstString.upper())
 
 if(firstString.lower() == secondStrşng.lower()):
     print('Two string are same')
