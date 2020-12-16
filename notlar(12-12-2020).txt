@@ -1,0 +1,15 @@
+Python bir programlama dilidir.
+Farklı sistemleri bir araya getirmek ve öğrenmek açısından hızlı ilerleyebileceğimiz bir dildir.
+*Python web development
+*Scientific and Numeric Computing
+*Data Analysis
+*Machine Learning
+*Browser Automation
+*Python Makes Robotics possible
+*Hacking
+*Desktop Application
+*Game Development gibi.. bir çok alanda geliştirme yapılabilir.
+
+
+
+
