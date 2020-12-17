@@ -48,3 +48,7 @@
 22.arrayFunctions.py
 
 23.tuplePart1.py
+
+24.tuplePart2.py
+
+25.setPart1.py
