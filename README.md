@@ -46,3 +46,5 @@
 21.arraysPart4.py
 
 22.arrayFunctions.py
+
+23.tuplePart1.py
