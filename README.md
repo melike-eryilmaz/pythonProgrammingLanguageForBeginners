@@ -44,3 +44,5 @@
 20. Workshops/variableSwaping.py
 
 21.arraysPart4.py
+
+22.arrayFunctions.py
