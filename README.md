@@ -13,30 +13,32 @@
 
 5.conditionalBolcks5.py
 
-6.arrays.py
+6.arraysPart1.py
 
-7.arrays2.py
+7.arraysPart2.py
 
-8.loops.py
+8.arraysPart3.py
 
-9.functions.py
+9.loops.py
 
-10.variablesPart1.py
+10.functions.py
 
-11.variablesPart2.py
+11.variablesPart1.py
 
-12.stringFunctionsPart1.py
+12.variablesPart2.py
 
-13.stringFunctionsPart2.py
+13.stringFunctionsPart1.py
 
-14.stringFunctionsPart3.py
+14.stringFunctionsPart2.py
 
-15.stringFunctionsPart4.py
+15.stringFunctionsPart3.py
 
-16.stringFunctionsPart5.py
+16.stringFunctionsPart4.py
 
-17.inputs.py  
+17.stringFunctionsPart5.py
 
-18.notes(12-12-2020).txt
+18.inputs.py  
 
-19. Workshops/variableSwaping.py
+19.notes(12-12-2020).txt
+
+20. Workshops/variableSwaping.py
