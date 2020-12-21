@@ -56,3 +56,11 @@
 26.setPart2.py
 
 27.setUnion.py
+
+28.setIntersection.py
+
+29.setDifference.py
+
+30.setSymmetric_difference.py
+
+31.dictionaryPart1.py
