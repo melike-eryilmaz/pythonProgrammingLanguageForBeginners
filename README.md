@@ -41,7 +41,7 @@
 
 19.notes(12-12-2020).txt
 
-20. Workshops/variableSwaping.py
+20.Workshops/variableSwaping.py
 
 21.arraysPart4.py
 
@@ -75,6 +75,6 @@
 
 36.conditionalBlocks9.py
 
-37. Workshops/conditionalBlocksWorkshop.py
+37.Workshops/conditionalBlocksWorkshop.py
 
 38.Workshops/conditionalBlocksWorkshop1.py
