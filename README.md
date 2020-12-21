@@ -74,3 +74,5 @@
 35.conditionalBlocks8.py
 
 36.conditionalBlocks9.py
+
+37. Workshops/conditionalBlocksWorkshop.py
