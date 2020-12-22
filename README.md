@@ -86,3 +86,5 @@
 41.whileIterationPart1.py
 
 42.breakAndcontinue.py
+
+43.forIterationPart3Range.py
