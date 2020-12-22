@@ -82,3 +82,5 @@
 39.forIterationPart1.py
 
 40.forIterationPart2.py
+
+42.whileIterationPart1.py
