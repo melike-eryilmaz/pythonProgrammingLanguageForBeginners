@@ -92,3 +92,5 @@
 44.forIterationPart3RangeEx.py
 
 45.functionsPart1.py
+
+46.functionsPart2.py
