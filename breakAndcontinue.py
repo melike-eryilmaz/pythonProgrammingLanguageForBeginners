@@ -19,6 +19,7 @@ for sehir in sehirler :
 # continue ise döngüde sadece o anki değerde işlemleri geçip diğerlerinde devam eder.
 # break te karşılaşılan değerden sonra diğer değerlere bakılmamıştı ,continue da değerler tek tek değerlendirilir.
 
+# Yani break döngüyü tamamen sonlandırırken continue sadece o anki loopu sonlandırır.
 for sehir in sehirler :
     if sehir == 'İstanbul':
         continue
