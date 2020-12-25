@@ -106,3 +106,5 @@
 51.Workshops/wordSorting.py
 
 52.classesPart1.py
+
+53.classesPart3.py
