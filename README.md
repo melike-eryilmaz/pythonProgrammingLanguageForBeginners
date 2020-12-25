@@ -104,3 +104,5 @@
 50.Workshops/matrixSums.py
 
 51.Workshops/wordSorting.py
+
+52.classesPart1.py
