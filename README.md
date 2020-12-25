@@ -108,3 +108,11 @@
 52.classesPart1.py
 
 53.classesPart3.py
+
+54.classesPart4.py
+
+55.classesPart5.py
+
+56.modulesPart1.py
+
+57.modulesPart2.py
