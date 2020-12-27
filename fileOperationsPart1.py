@@ -67,5 +67,7 @@ f = open('customers.txt','r')
   f =open('customers.txt')
   for l in f :
        print(l)
-  
+       
+  # İşlemlerimiz bitince dosyamızı kapatırız.
+  f.close()
   #%%
