@@ -142,3 +142,5 @@
 69.databaseOperationsPart1.py
 
 70.chinook.db
+
+71.databaseOperationsPart2.py
