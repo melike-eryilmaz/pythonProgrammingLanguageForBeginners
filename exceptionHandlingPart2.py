@@ -24,3 +24,5 @@ for x in data:
     except :
         print(str(x)+' hesaplanamadı.')
         print('Sistem tarafından :',sys.exc_info([0]))
+    finally:#finally kod bloğu her halukarda çalışır.Dosyalarla işlemler yaparken finally kod bloğunu en son dosyayı kapatmak için kullanabiliriz..
+        print('İşlemler sonlandı.')
