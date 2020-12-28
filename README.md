@@ -168,3 +168,5 @@
 82.mapping.py
 
 83.filter.py
+
+84.reduce.py
