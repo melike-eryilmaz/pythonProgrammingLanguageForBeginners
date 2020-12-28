@@ -11,3 +11,28 @@ Bu yapıdaki veritabanı sistemlerine ilişkisel veritabanı sistemleri denir.
 İlişkisel veri tabanı sistemleri yaygın olarak kulllanılır.
 Özetle veritabanı verilerin saklandığı yapılardır,ilişkisel veritabanı sistemleri de mevcuttur.
 """
+
+"""
+
+Mssql server ,Microsoft tarafından geliştirlen ilişkisel verştabanı sistemidir.
+
+Oracle ,ilişkisel verştabanı sistemidir.
+Mysql,Oracle tarafından satın alınmıştır.İlişkisel veritabanı sistemidir.
+SQLite
+
+SQLite dosya üzerinden çalışabilme imkanı sunduğu ve mobil projelerde de
+kolaylıkla kullanılabilmesi açısından tercih ediliyor.
+
+MongoDB ilişkisel vertabanı değildir.Nosql
+Büyük verilerde tercih edilen veritabanıdır.
+Json formatında data tutulur.
+Veritabanına yeni veriler eklenmek isteniyor .
+Daha performanslı çalışabilmek için mongodb kullanılır.
+
+PostgreSql ,İlişkisel Veritabanına örnektir.
+
+
+
+
+
+"""
