@@ -138,3 +138,7 @@
 67.jsonOperationsPart2.py
 
 68.users.json
+
+69.databaseOperationsPart1.py
+
+70.chinook.db
