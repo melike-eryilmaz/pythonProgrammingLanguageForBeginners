@@ -36,3 +36,12 @@ PostgreSql ,İlişkisel Veritabanına örnektir.
 
 
 """
+
+"""
+Biz projemizde SQLite database kullanacağız.
+SQLite kolay olması,dosya üzerinden çalışabilme olanağı sağlaması ,mobilde ve diğer platformalardada
+rahatlıkla kullanılabilmesi sebebiyle tercih edilir.
+https://sqlitebrowser.org/ üzerinden sisteminize uygun version u kurabilirsiniz.
+
+https://www.sqlitetutorial.net/ adrsinden sample database altından chinook database ini indirip sqllite da open database diyerek açalım.
+"""
