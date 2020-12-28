@@ -134,3 +134,7 @@
 65.Persons.txt
 
 66.jsonOperationsPart1.py
+
+67.jsonOperationsPart2.py
+
+68.users.json
