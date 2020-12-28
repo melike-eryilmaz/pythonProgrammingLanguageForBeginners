@@ -152,3 +152,5 @@
 74.databaseOperationsPart5.py
 
 75.databaseOperationsPart6.py
+
+76.databaseOperationsPart7.py
