@@ -1,4 +1,4 @@
-""" 04/01/2020 Numpy Array"""
+""" 04/01/2021 Numpy Array"""
 import numpy as np
 
 a = np.array([1,3,5,7,9,11])
