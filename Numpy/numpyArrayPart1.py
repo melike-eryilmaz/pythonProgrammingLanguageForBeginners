@@ -1,5 +1,6 @@
 
 """
+04/01/2021
 Veri analizi ---Python
 Pythonda veri analizinde kullanılan iki temel kütüphane numpy ve pandasdır. 
 
